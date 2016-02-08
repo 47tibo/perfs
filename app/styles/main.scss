@@ -1,0 +1,20 @@
+$default-bg: white;
+
+body {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  background: $default-bg;
+}
+
+body {
+  margin: 0;
+}
+.flex {
+  display: flex; align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+#theCanvas {
+  width: 100%;
+  height: auto;
+}

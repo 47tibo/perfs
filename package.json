@@ -1,0 +1,14 @@
+{
+  "name": "perf-canvas",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "javascript-brunch": "^1.7.1",
+    "brunch": "^1.8.2",
+    "sass-brunch": "^1.8.10"
+  },
+  "dependencies": {
+    "auto-reload-brunch": "^1.7.8",
+    "babel-brunch": "^5.1.1"
+  }
+}
